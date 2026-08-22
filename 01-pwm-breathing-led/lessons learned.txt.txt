@@ -1,7 +1,0 @@
-biggest learning = bare bones test 
-
-led didn't turn on initially so took out entire wiring. 
-did a bare bones test where I checked if led was working (it did)
-rewired the circuit entirely and added a ground wire b/w Arduino and breadboard GND
-didn't turn on so clicked the button and turned the pot 
-finally started working. 
