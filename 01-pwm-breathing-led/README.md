@@ -8,6 +8,8 @@ the effect on/off. Built with PlatformIO on an Arduino Uno.
 
 ![Circuit photo](media/photo.jpg)
 
+https://github.com/user-attachments/assets/6ae0ad4c-fcfa-4b23-8d8a-0c02531d9cb7
+
 ## Hardware
 - Arduino Uno
 - 1x LED
