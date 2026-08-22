@@ -36,9 +36,9 @@ with basic debounce, so a single press toggles state rather than requiring
 the button to be held.
 
 ## Build & Upload
-\`\`\`bash
+```bash
 pio run --target upload
-\`\`\`
+```
 
 ## What I learned
 - PWM signal generation and duty cycle control
