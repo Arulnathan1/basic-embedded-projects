@@ -5,8 +5,7 @@ with a potentiometer controlling brightness and a push button toggling
 the effect on/off. Built with PlatformIO on an Arduino Uno.
 
 ## Demo
-
-[Circuit photo 1](media/image-1-pwm-led.jpeg)
+![Circuit photo 1](media/image-1-pwm-led.jpeg)
 ![Circuit photo 2](media/image-2-pwm-led.jpg)
 
 https://github.com/user-attachments/assets/6ae0ad4c-fcfa-4b23-8d8a-0c02531d9cb7
