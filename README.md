@@ -1,7 +1,7 @@
 # Basic Embedded Projects
 
 Small embedded systems projects built while learning ECE fundamentals — 
-Arduino/PlatformIO, C++, circuit design, and Git workflow.
+Arduino/PlatformIO, C/C++, circuit design, and Git workflow.
 
 ## Projects
 
